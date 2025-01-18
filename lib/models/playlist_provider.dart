@@ -96,11 +96,9 @@ class PlaylistProvider extends ChangeNotifier {
         _currentSongIndex = _currentSongIndex! + 1;
       } else {
         // If it's the last song
-        if (_isRepeat) {
+
           _currentSongIndex = 0; // Loop back to the first song
-        } else {
-          return; // Do nothing (stay on the last song)
-        }
+
       }
       play();
     }
