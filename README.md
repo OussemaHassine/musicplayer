@@ -24,6 +24,15 @@ The app offers a clean and intuitive interface:
 #### 2. Now Playing Screen (Light Mode)
 <img src="assets/light_mode.png" alt="Light Mode Screenshot" width="300"/>
 
+#### 3. Songs Page (Dark Mode)
+<img src="assets/songs_page.png" alt="Light Mode Screenshot" width="300"/>
+
+#### 4. Settings Page (Dark Mode)
+<img src="assets/settings_page.png" alt="Light Mode Screenshot" width="300"/>
+
+#### 5. Drawer (Dark Mode)
+<img src="assets/drawer.png" alt="Light Mode Screenshot" width="300"/>
+
 
 ## E. Technology and Implementation Details
 
